@@ -1,4 +1,6 @@
-h1 {
-  color: red; }
+.header {
+  background-size: cover;
+  background: url("../images/header-background.png");
+  height: 990px; }
 
 /*# sourceMappingURL=styles.css.map */
