@@ -3,4 +3,141 @@
   background: url("../images/header-background.png");
   height: 990px; }
 
+.who-we-are {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 300px; }
+
+.about-us {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 600px; }
+
+.services {
+  background-size: cover;
+  background: grey;
+  height: 600px; }
+
+.services-img {
+  width: 500px;
+  height: 400px; }
+
+.portfolio {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 900px; }
+
+.portfolio-img {
+  width: 300px;
+  height: 300px; }
+
+.case-study {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 900px; }
+
+.check-out-stats {
+  background-size: cover;
+  background: url("../images/check-out-stats-img.png");
+  height: 500px; }
+
+.pricing {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 900px; }
+
+.team {
+  background-size: cover;
+  background: url("../images/team-img.png");
+  height: 700px; }
+
+.our-clients {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 500px; }
+
+.our-blog {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 900px; }
+
+.contact {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 900px; }
+
+.promo {
+  background-size: cover;
+  background: url("../images/promo-img.png");
+  height: 450px; }
+
+.footer {
+  background-size: cover;
+  background: #FFFFFF;
+  height: 50px; }
+
+.who-we-are-card-img {
+  width: 30%;
+  border: 1px solid grey;
+  padding: 30px; }
+
+.portfolio-card, .case-study-card, .pricing-card, .team-card, .our-clients-card, .our-blog-card, .contact-card, .promo-card {
+  text-align: center; }
+
+.our-clients-logo {
+  border: 1px solid black;
+  width: 200px;
+  height: 100px;
+  padding: 20px; }
+
+.promo-card, .header-card {
+  background: none;
+  border: none;
+  color: #FFFF;
+  padding-top: 100px; }
+
+.contact-card-body {
+  text-align: left; }
+
+.contact-row {
+  background: #e6e6e6;
+  height: 500px; }
+
+.contact-card-body {
+  padding: 100px; }
+
+.contact-card, .form-control, .our-blog-card, .our-clients-card, .team-card, .pricing-card, .check-out-stats-card, .case-study-card, .portfolio-card {
+  background: none;
+  border: none; }
+
+.team-card {
+  padding-top: 100px;
+  color: #FFFF; }
+
+.check-out-stats-card {
+  padding-top: 150px;
+  padding-left: 100px;
+  width: 220px;
+  color: #FFFF; }
+
+.check-out-stats-card img {
+  width: 100px;
+  height: 100px; }
+
+.portfolio-list-group {
+  justify-content: center; }
+
+.portfolio-list-group li {
+  border: none; }
+
+.who-we-are-card, .who-we-are-card-img {
+  border: none; }
+
+.main-header-card {
+  background: none;
+  border: none; }
+
+.header-car-body {
+  padding-top: 200px; }
+
 /*# sourceMappingURL=styles.css.map */
