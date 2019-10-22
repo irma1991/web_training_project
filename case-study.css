@@ -1,0 +1,248 @@
+.Case_Study {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 206;
+}
+.Circle_Navigation {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 205;
+}
+.Ellipse_4_copy_2 {
+  border-radius: 50%;
+  background-color: rgb(244, 245, 249);
+  position: absolute;
+  left: 722px;
+  top: 5155px;
+  width: 12px;
+  height: 12px;
+  z-index: 204;
+}
+.Ellipse_4_copy {
+  border-radius: 50%;
+  background-color: rgb(244, 245, 249);
+  position: absolute;
+  left: 702px;
+  top: 5155px;
+  width: 12px;
+  height: 12px;
+  z-index: 203;
+}
+.Ellipse_4 {
+  border-radius: 50%;
+  background-color: rgb(231, 76, 60);
+  position: absolute;
+  left: 682px;
+  top: 5155px;
+  width: 12px;
+  height: 12px;
+  z-index: 202;
+}
+.Read_More {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 200;
+}
+.read_more {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 0.86153846153846,0,0,0.86517857142857,0,0);
+  -webkit-transform: matrix( 0.86153846153846,0,0,0.86517857142857,0,0);
+  -ms-transform: matrix( 0.86153846153846,0,0,0.86517857142857,0,0);
+  position: absolute;
+  left: 671.86px;
+  top: 5071.178px;
+  z-index: 199;
+}
+.Rounded_Rectangle_8 {
+  border-radius: 2px;
+  background-color: rgb(231, 76, 60);
+  box-shadow: 0px 2px 4.75px 0.25px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: 635px;
+  top: 5056px;
+  width: 145px;
+  height: 46px;
+  z-index: 198;
+}
+._1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 196;
+}
+.Lorem_Ipsum_is_simply_dummy_text_of_the_printin {
+  font-size: 14px;
+  font-family: "SourceSansPro";
+  color: rgb(153, 153, 153);
+  line-height: 1.714;
+  text-align: center;
+  -moz-transform: matrix( 1,0,0,1.00020895730307,0,0);
+  -webkit-transform: matrix( 1,0,0,1.00020895730307,0,0);
+  -ms-transform: matrix( 1,0,0,1.00020895730307,0,0);
+  position: absolute;
+  left: 433.028px;
+  top: 4944.786px;
+  width: 539.982px;
+  height: 84.923px;
+  z-index: 195;
+}
+.Shape {
+  border-width: 3px;
+  border-color: rgb(106, 106, 106);
+  border-style: solid;
+  position: absolute;
+  left: 687px;
+  top: 4893px;
+  width: 35px;
+  height: 0;
+  z-index: 194;
+}
+.aCCUMULATE_CREATIVE_IDEAS {
+  font-size: 18px;
+  font-family: "OpenSans";
+  color: rgb(106, 106, 106);
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1,0,0,1.00020895730306,0,0);
+  -webkit-transform: matrix( 1,0,0,1.00020895730306,0,0);
+  -ms-transform: matrix( 1,0,0,1.00020895730306,0,0);
+  position: absolute;
+  left: 577.603px;
+  top: 4845.7px;
+  z-index: 193;
+}
+._3 {
+  background-image: url("3.png");
+  position: absolute;
+  left: 697px;
+  top: 4717px;
+  width: 21px;
+  height: 34px;
+  z-index: 192;
+}
+._3 {
+  background-color: rgb(231, 76, 60);
+  position: absolute;
+  left: 644px;
+  top: 4668px;
+  width: 127px;
+  height: 127px;
+  z-index: 191;
+}
+.Text_copy {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 189;
+}
+.CASE_STUDY {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: rgb(106, 106, 106);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 845.937px;
+  top: 4363.4px;
+  z-index: 188;
+}
+.A_brief_story_about_how_this_process_works__kee {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 2.071;
+  text-align: center;
+  position: absolute;
+  left: 344.937px;
+  top: 4453.25px;
+  width: 452px;
+  height: 14px;
+  z-index: 187;
+}
+.Design_copy_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 185;
+}
+.Shape_171_copy {
+  border-width: 1px;
+  border-color: rgb(153, 153, 153);
+  border-style: solid;
+  position: absolute;
+  left: 977px;
+  top: 4471px;
+  width: 78px;
+  height: 0px;
+  z-index: 184;
+}
+.Shape_171 {
+  border-width: 1px;
+  border-color: rgb(153, 153, 153);
+  border-style: solid;
+  position: absolute;
+  left: 862px;
+  top: 4471px;
+  width: 78px;
+  height: 0px;
+  z-index: 183;
+}
+.Ellipse_3 {
+  border-radius: 50%;
+  background-color: rgb(231, 76, 60);
+  position: absolute;
+  left: 956px;
+  top: 4468px;
+  width: 8px;
+  height: 7px;
+  z-index: 182;
+}
+.Background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 180;
+}
+.Rectangle_22 {
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 375px;
+  top: 4588px;
+  width: 665px;
+  height: 629px;
+  z-index: 179;
+}
+.Main_Bg {
+  background-color: rgb(244, 245, 249);
+  position: absolute;
+  left: 0px;
+  top: 4223px;
+  width: 1920px;
+  height: 1191px;
+  z-index: 177;
+}

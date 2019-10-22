@@ -1,0 +1,105 @@
+.About_Us {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 100;
+}
+.Get_Started_Button_copy {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 99;
+}
+.BROWSE_OUR_WORK {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  -webkit-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  -ms-transform: matrix( 1.15384615384615,0,0,1.15357142857143,0,0);
+  position: absolute;
+  left: 1019.623px;
+  top: 1946.718px;
+  z-index: 98;
+}
+.Rounded_Rectangle_8 {
+  border-radius: 3px;
+  background-color: rgb(231, 76, 60);
+  box-shadow: 0px 2px 4.75px 0.25px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: 960px;
+  top: 1926px;
+  width: 225px;
+  height: 56px;
+  z-index: 97;
+}
+.Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 11317px;
+  z-index: 95;
+}
+.Rectangle_19 {
+  background-color: rgb(231, 76, 60);
+  position: absolute;
+  left: 960px;
+  top: 1577px;
+  width: 6px;
+  height: 36px;
+  z-index: 94;
+}
+.Lorem_Ipsum_is_simply_dummy_text_of_the_printin {
+  font-size: 14px;
+  font-family: "SourceSansPro";
+  color: rgb(153, 153, 153);
+  line-height: 2.071;
+  text-align: left;
+  position: absolute;
+  left: 957.994px;
+  top: 1688.25px;
+  width: 582px;
+  height: 218px;
+  z-index: 93;
+}
+.OUR_HISTORY {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: rgb(106, 106, 106);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 993.937px;
+  top: 1573.4px;
+  z-index: 92;
+}
+.Monitor {
+  background-image: url("Monitor.png");
+  position: absolute;
+  left: 376px;
+  top: 1577px;
+  width: 506px;
+  height: 407px;
+  z-index: 90;
+}
+.Shape_172 {
+  border-width: 1px;
+  border-color: rgb(230, 231, 235);
+  border-style: solid;
+  position: absolute;
+  left: 0px;
+  top: 1435px;
+  width: 1918px;
+  height: 0;
+  z-index: 89;
+}
