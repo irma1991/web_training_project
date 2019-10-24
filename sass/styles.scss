@@ -1,186 +1,190 @@
-.header{
-	background-size: cover;
-	background: url("../images/header-background.png");
-	height: 991px;
+.header {
+  background-size: cover;
+  background: url("../images/header-background.png");
+  height: 991px;
+}
 
+.header-background{
+  height: 991px;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.70;
+  position: absolute;
+  top: 0px;
+}
+
+.header-logo{
+  height: 35px;
+}
+
+.header-text{
+  padding-top: 20px;
 }
 
 .who-we-are {
   background-size: cover;
   background: #FFFFFF;
   height: 300px;
-  border-bottom: 1px solid rgb(153, 153, 153); }
+  border-bottom: 1px solid #999999; }
 
 .about-us {
   background-size: cover;
   background: #FFFFFF;
   height: 600px;
-  border-bottom: 1px solid rgb(153, 153, 153);}
+  border-bottom: 1px solid #999999; }
 
 .services {
   background-size: cover;
   height: 600px;
-  border-bottom: 1px solid rgb(153, 153, 153); }
+  border-bottom: 1px solid #999999; }
 
-  .services-first-col{
-    background: rgb(32, 32, 32);
-    height: 600px;
-  }
+.services-first-col {
+  background: #202020;
+  height: 600px; }
 
-  .services-second-col img{
-    max-width: 100%;
-    height: 600px;
-  }
+.services-second-col img {
+  max-width: 100%;
+  height: 600px; }
 
 .portfolio {
   background-size: cover;
   background: #FFFFFF;
   height: 900px;
-  border-bottom: 1px solid rgb(153, 153, 153); }
+  border-bottom: 1px solid #999999;}
 
 .portfolio-img {
-  max-width: 100%;}
+  max-width: 100%; }
 
-  .portfolio h5{
-    font-size: 36px;
-    font-family: "SourceSansPro";
-    color: rgb(106, 106, 106);
-    font-weight: bold;
-    text-transform: uppercase;
-  }
+.portfolio h5 {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: #6a6a6a;
+  font-weight: bold;
+  text-transform: uppercase; }
 
-  .portfolio p{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(153, 153, 153);
-  }
+.portfolio p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999; }
 
-  .portfolio li{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(153, 153, 153);
-    font-weight: bold;
-  }
+.portfolio li {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999;
+  font-weight: bold; }
 
-  .portfolio-card, .case-study-card{
-    padding-top: 60px;
-  }
+.case-study-card {
+  padding-top: 60px; }
 
 .case-study {
   background-size: cover;
   background: #f4f5f9;
-  height: 800px; }
+  height: 800px;
+  border-bottom: 1px solid #999999; }
 
-  .case-study-card h5{
-    font-size: 36px;
-    font-family: "SourceSansPro";
-    color: rgb(106, 106, 106);
-    font-weight: bold;
-  }
+.case-study-card h5 {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: #6a6a6a;
+  font-weight: bold; }
 
-  .case-study-card p{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(153, 153, 153);
-  }
+.case-study-card p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999; }
 
-  .case-study-text-container{
-    background: #FFFF;
-    height: 400px;
-    position: relative;
-    top: 50px;
-    left: 70px;
-  }
+.case-study-text-container {
+  background: #FFFF;
+  height: 400px;
+  position: relative;
+  top: 50px;
+  left: 70px; }
 
-  .case-study-media-body{
-    padding: 60px;
-  }
+.case-study-media-body {
+  padding: 60px; }
 
-  .case-study-img-container img{
-    max-width: 100%;
-    height: 500px;
-  }
+.case-study-img-container img {
+  max-width: 100%;
+  height: 500px; }
 
-  .case-study-media-body h5{
-    font-size: 18px;
-    font-family: "OpenSans";
-    color: rgb(106, 106, 106);
-    text-transform: uppercase;
-    text-align: center;
-    font-weight: bold;
-  }
+.case-study-media-body h5 {
+  font-size: 18px;
+  font-family: "OpenSans";
+  color: #6a6a6a;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold; }
 
-  .case-study-media-body p{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(153, 153, 153);
-    text-align: center;
-    padding: 15px;
-  }
+.case-study-media-body p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999;
+  text-align: center;
+  padding: 15px; }
 
-  .case-study-btn{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(255, 255, 255);
-    text-transform: uppercase;
-    background-color: rgb(231, 76, 60);
-  }
+.case-study-btn {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: white;
+  text-transform: uppercase;
+  background-color: #e74c3c; }
 
-  .case-study-icon img{
-    padding: 15px;
-    background-color: rgb(153, 153, 153);
-    border: 1px solid rgb(153, 153, 153);
-  }
+.case-study-icon img {
+  padding: 15px;
+  background-color: #999999;
+  border: 1px solid #999999; }
 
-  .case-study-icon{
-    padding-left: 180px;
-    padding-bottom: 30px; 
-  }
+.case-study-icon {
+  padding-left: 180px;
+  padding-bottom: 30px; }
 
-  .case-study-btn-div{
-    padding-left: 150px;
-  }
+.case-study-btn-div {
+  padding-left: 150px; }
 
-  .header-nav a{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(244, 245, 249);
-    font-weight: bold;
-  }
+.header-nav a {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #f4f5f9;
+  font-weight: bold; }
 
-  .header-nav{
-    padding-top: 10px;
-  }
+.header-nav {
+  padding-top: 10px; }
 
 .check-out-stats {
   background-size: cover;
   background: url("../images/check-out-stats-img.png");
-  height: 500px; }
+  height: 500px;
+  border-bottom: 1px solid #999999; }
 
 .pricing {
   background-size: cover;
   background: #FFFFFF;
-  height: 900px; }
+  height: 900px;
+  border-bottom: 1px solid #999999; }
 
 .team {
   background-size: cover;
   background: url("../images/team-img.png");
-  height: 700px; }
+  height: 700px;
+  border-bottom: 1px solid #999999; }
 
 .our-clients {
   background-size: cover;
-  background: #FFFFFF;
-  height: 500px; }
+  background: #f4f5f9;
+  height: 500px;
+  border-bottom: 1px solid #999999; }
 
 .our-blog {
   background-size: cover;
-  background: #FFFFFF;
-  height: 900px; }
+  background: #f4f5f9;
+  height: 900px;
+  border-bottom: 1px solid #999999; }
 
 .contact {
   background-size: cover;
-  background: #FFFFFF;
-  height: 900px; }
+  background: #f4f5f9;
+  height: 900px;
+  border-bottom: 1px solid #999999;
+   }
 
 .promo {
   background-size: cover;
@@ -189,183 +193,270 @@
 
 .footer {
   background-size: cover;
-  background: #FFFFFF;
+  background-color: rgb(32, 32, 32);
   height: 50px; }
 
-  .who-we-are-card-img{
-    width: 30%;
-    border: 1px solid grey;
-    padding: 30px;
-  }
+.who-we-are-card h5 {
+  font-family: "OpenSans";
+  font-size: 18px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #6a6a6a; }
 
-  .who-we-are-card h5{
+.who-we-are-card p {
+  font-size: 12px;
+  font-family: "SourceSansPro";
+  color: #999999;
+  text-align: center; }
+
+.about-us-img {
+  width: 400px;
+  padding-right: 20px; }
+
+.about-us-row {
+  padding-top: 150px; }
+
+.about-us h5 {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: #6a6a6a;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-bottom: 15px; }
+
+.about-us p {
+  font-size: 14px;
+  font-family: "SourceSansPro";
+  color: #999999; }
+
+.about-us-btn {
+  border-radius: 3px;
+  background-color: #e74c3c;
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 10px;
+  border-color: none; }
+
+.about-us-media-body {
+  padding-left: 30px; }
+
+.portfolio-card, .case-study-card, .pricing-card, .team-card, .our-clients-card, .our-blog-card, .contact-card, .promo-card {
+  text-align: center; }
+
+.our-clients-logo{
+  max-width: 100%;
+}
+
+.promo-card, .header-card {
+  background: none;
+  border: none;
+  color: #FFFF;
+  padding-top: 100px; }
+
+.contact-card-body {
+  text-align: left;
+  padding: 100px; }
+
+.contact-row {
+  background: #FFFF;
+  height: 500px; }
+
+.contact-card, .form-control, .our-blog-card, .our-clients-card, .team-card, .pricing-card, .check-out-stats-card, .case-study-card, .portfolio-card {
+  background: none;
+  border: none; }
+
+.team-card {
+  padding-top: 100px;
+  color: #FFFF; }
+
+.check-out-stats-card {
+  padding-top: 150px;
+  padding-left: 100px;
+  width: 220px;
+  color: #FFFF; }
+
+.check-out-stats-card img {
+  width: 100px;
+  height: 100px; }
+
+.portfolio-list-group {
+  justify-content: center; }
+
+.portfolio-list-group li {
+  border: none; }
+
+.who-we-are-card, .who-we-are-card-img {
+  border: none; }
+
+.main-header-card {
+  background: none;
+  border: none; }
+
+.header-card-body {
+  padding-top: 300px; }
+
+.header-card-body h5 {
+  font-size: 24px;
+  font-family: "SourceSansPro";
+  color: #f4f5f9; }
+
+.header-card-body h1 {
+  font-size: 72px;
+  font-family: "OpenSans";
+  color: #f4f5f9;
+  font-weight: bold; }
+
+.header-card-body p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #cbc6c0; }
+
+.header-btn {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 3px;
+  background-color: #e74c3c;
+  border-color: #e74c3c; }
+
+
+.header-down-icon {
+  position: relative;
+  bottom: 30px;
+  left: 520px; }
+
+.pricing-card-body {
+  padding-top: 100px; }
+
+.pricing-card-body h5 {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: #6a6a6a;
+  font-weight: bold;
+  text-transform: uppercase; }
+
+.pricing-card-body p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999; }
+
+.pricing-card-col {
+  border: none;
+  background: #f4f5f9; }
+
+.pricing-card-col p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999;
+  text-align: center; }
+
+  .pricing-btn{
+    font-size: 14px;
     font-family: "OpenSans";
-    font-size: 18px;
-    text-transform: uppercase;
-    text-align: center;
-    color: rgb(106, 106, 106);
+    color: rgb(255, 255, 255);
+    border-radius: 2px;
+    background-color: rgb(153, 153, 153);
   }
 
-  .who-we-are-card p{
-    font-size: 12px;
-    font-family: "SourceSansPro";
-    color: rgb(153, 153, 153);
-    text-align: center;
+   .pricing-red-btn{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    border-radius: 2px;
+    background-color: rgb(231, 76, 60);
   }
 
-  .about-us-img{
-    width: 400px;
-    padding-right: 20px;
+  .who-we-are-card-img{
+    border: 1px solid #999999;
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    margin-left: 110px;
   }
 
-  .about-us-row{
-    padding-top: 150px;
+  .services-media-body{
+    color: #FFFF;
   }
 
-  .about-us h5{
-    font-size: 36px;
-    font-family: "SourceSansPro";
-    color: rgb(106, 106, 106);
-    font-weight: bold;
-    text-transform: uppercase;
-    padding-bottom: 15px;
-  }
-
-  .about-us p{
+  .services-media-body p{
     font-size: 14px;
     font-family: "SourceSansPro";
     color: rgb(153, 153, 153);
+    text-align: right;
+    padding-left: 80px;
   }
 
-  .about-us-btn{
-    border-radius: 3px;
-    background-color: rgb(231, 76, 60);
-    font-size: 12px;
-    font-family: "OpenSans";
-    color: rgb(255, 255, 255);
-    font-weight: bold;
-    text-transform: uppercase;
-    padding: 10px;
-  }
-
-  .about-us-media-body{
-    padding-left: 30px;
-  }
-
-  .portfolio-card, .case-study-card, .pricing-card, .team-card, .our-clients-card, .our-blog-card, .contact-card, .promo-card{
-    text-align: center;
-  }
-
-  .our-clients-logo{
-    border: 1px solid black;
-    width: 200px;
-    height: 100px;
-    padding: 20px;
-  }
-
-  .promo-card, .header-card{
-    background: none;
-    border: none;
-    color: #FFFF;
-    padding-top: 100px;
-  }
-
-  .contact-card-body{
-    text-align: left;
-  }
-
-  .contact-row{
-    background: #e6e6e6;
-    height: 500px;
-  }
-
-  .contact-card-body{
-    padding: 100px;
-  }
-
-  .contact-card, .form-control, .our-blog-card, .our-clients-card, .team-card, .pricing-card, .check-out-stats-card, .case-study-card, .portfolio-card{
-    background: none;
-    border: none;
-  }
-
-  .team-card{
-    padding-top: 100px;
-    color: #FFFF;
-  }
-
-  .check-out-stats-card{
-    padding-top: 150px;
-    padding-left: 100px;
-    width: 220px;
-    color: #FFFF;
-  }
-
-  .check-out-stats-card img{
-    width: 100px;
-    height: 100px;
-  }
-
-  .portfolio-list-group{
-    justify-content: center;
-  }
-
-  .portfolio-list-group li{
-    border: none;
-  }
-
-  .who-we-are-card, .who-we-are-card-img{
-    border: none;
-  }
-
-  .main-header-card{
-    background: none;
-    border: none;
-  }
-
-  .header-card-body{
-    padding-top: 300px;
-  }
-
-  .header-card-body h5{
-    font-size: 24px;
+  .services-media-body h5{
+    font-size: 36px;
     font-family: "SourceSansPro";
     color: rgb(244, 245, 249);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: right;
+    padding-bottom: 10px;
   }
 
-    .header-card-body h1{
-      font-size: 72px;
-      font-family: "OpenSans";
-      color: rgb(244, 245, 249);
-      font-weight: bold;
+    .services-media-body h6{
+    font-size: 18px;
+    font-family: "SourceSansPro";
+    color: rgb(231, 76, 60);
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: right;
+    padding-bottom: 10px;
   }
 
-  .header-card-body p{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(203, 198, 192);
+  .services-text-container{
+    padding-top: 130px;
+    padding-right: 50px;
   }
 
-  .header-btn{
-    font-size: 12px;
-    font-family: "OpenSans";
+  .services-icons li{
+    list-style: none;
+    position: relative;
+    padding: 15px;
+    bottom: 400px;
+    left: 470px;
+  }
+
+  .check-out-stats p{
+    font-size: 15px;
+    font-family: "SourceSansPro";
+    color: rgb(244, 245, 249);
+    font-weight: bold;
+  }
+
+    .check-out-stats h5{
+    font-size: 25px;
+    font-family: "SourceSansPro";
+    color: rgb(244, 245, 249);
+    font-weight: bold;
+  }
+
+  .team h5{
+    font-size: 36px;
+    font-family: "SourceSansPro";
     color: rgb(255, 255, 255);
     font-weight: bold;
     text-transform: uppercase;
-    border-radius: 3px;
-    background-color: rgb(231, 76, 60);
   }
 
-  .header-down-icon{
-    position: relative;
-    bottom: 30px;
-    left: 520px;
+    .team p{
+      font-size: 14px;
+      font-family: "OpenSans";
+      color: rgb(244, 245, 249);
   }
 
-  .pricing-card-body{
-    padding-top: 100px;
+  .our-clients-card{
+    padding-top: 50px;
   }
 
-  .pricing-card-body h5{
+  .our-clients-card h5{
     font-size: 36px;
     font-family: "SourceSansPro";
     color: rgb(106, 106, 106);
@@ -373,19 +464,87 @@
     text-transform: uppercase;
   }
 
-  .pricing-card-body p{
+  .our-clients-card p{
     font-size: 14px;
     font-family: "OpenSans";
     color: rgb(153, 153, 153);
   }
 
-  .pricing-card-col{
-    border: none;
+  .our-blog-card h5, .contact-card h5{
+    font-size: 36px;
+    font-family: "SourceSansPro";
+    color: rgb(106, 106, 106);
+    font-weight: bold;
+    text-transform: uppercase;
   }
 
-  .pricing-card-col p{
+    .our-blog-card, .contact-card p{
     font-size: 14px;
     font-family: "OpenSans";
     color: rgb(153, 153, 153);
-    text-align: center;
   }
+
+   .our-blog-card, .contact-card{
+    padding-top: 50px;
+  }
+
+  .contact-card-body h5{
+    font-size: 24px;
+    font-family: "Source Sans Pro";
+    color: rgb(231, 78, 62);
+    text-transform: uppercase;
+  }
+
+  .contact-card-body p{
+    font-size: 18px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+  }
+
+  .form-group{
+    border-bottom: 1px solid rgb(153, 153, 153);
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(153, 153, 153);
+  }
+
+  .contact-btn{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 3px;
+    background-color: rgb(231, 78, 62);
+  }
+
+  .promo-card h5{
+    font-size: 36px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+  }
+
+  .promo-card span{
+    text-transform: uppercase;
+  }
+
+  .promo-card p{
+    font-size: 12px;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+  }
+
+  .promo-btn{
+    font-family: "OpenSans";
+    border-radius: 3px;
+    background-color: rgb(231, 76, 60);
+  }
+
+  .footer p{
+    font-size: 14px;
+    font-family: "OpenSans";
+    color: rgba(153, 153, 153, 0.749);
+  }
+
+/*# sourceMappingURL=styles.css.map */
