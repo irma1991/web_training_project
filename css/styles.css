@@ -1,3 +1,6 @@
+.container-fluid {
+  padding: 0; }
+
 .header {
   background-size: cover;
   background: url("../images/header-background.png");
@@ -38,12 +41,14 @@
   height: 600px; }
 
 .services-second-col {
+  background: url("../images/services-img.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   height: 600px; }
 
 .portfolio {
   background-size: cover;
   background: #FFFFFF;
-  height: 900px;
   border-bottom: 1px solid #999999; }
 
 .portfolio-img {
@@ -71,6 +76,7 @@
   padding-top: 60px; }
 
 .case-study {
+  position: relative;
   background-size: cover;
   background: #f4f5f9;
   height: 900px;
@@ -157,8 +163,9 @@
   border-bottom: 1px solid #999999; }
 
 .team {
-  background-size: cover;
   background: url("../images/team-img.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   height: 700px;
   border-bottom: 1px solid #999999; }
 
@@ -171,10 +178,10 @@
 .our-blog {
   background-size: cover;
   background: #f4f5f9;
-  height: 900px;
   border-bottom: 1px solid #999999; }
 
 .contact {
+  position: relative;
   background-size: cover;
   background: #f4f5f9;
   height: 900px;
@@ -241,6 +248,10 @@
   text-align: center; }
 
 .our-clients-logo {
+  width: 200px;
+  height: 100px; }
+
+.our-clients-logo img {
   max-width: 100%; }
 
 .promo-card, .header-card {
@@ -262,7 +273,7 @@
   border: none; }
 
 .team-card {
-  padding-top: 100px;
+  padding-top: 120px;
   color: #FFFF; }
 
 .check-out-stats-card {
@@ -363,17 +374,15 @@
 
 .wrapper {
   width: 40px; }
-
-img {
-  padding: 10px;
-  max-width: 100%; }
+  .wrapper img {
+    padding: 10px;
+    max-width: 100%; }
 
 .wrapper2 {
   width: 30px; }
-
-img {
-  padding: 10px;
-  max-width: 100%; }
+  .wrapper2 img {
+    padding: 10px;
+    max-width: 100%; }
 
 .services-media-body {
   color: #FFFF; }
@@ -407,12 +416,15 @@ img {
   padding-top: 130px;
   padding-right: 50px; }
 
+.services-icons ul {
+  position: absolute; }
+
 .services-icons li {
   list-style: none;
   position: relative;
-  padding: 15px;
   bottom: 400px;
-  left: 470px; }
+  left: 470px;
+  padding: 10px; }
 
 .check-out-stats p {
   font-size: 15px;
@@ -517,6 +529,14 @@ img {
   font-size: 14px;
   font-family: "OpenSans";
   color: rgba(153, 153, 153, 0.749); }
+
+.portfolio-card {
+  padding-top: 50px; }
+
+.footer-icons-list li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px; }
 
 /*# sourceMappingURL=styles.css.map */
 
