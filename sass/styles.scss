@@ -1,7 +1,7 @@
 .header {
   background-size: cover;
   background: url("../images/header-background.png");
-  height: 991px;
+  height: 990px;
 }
 
 .header-background{
@@ -13,7 +13,7 @@
 }
 
 .header-logo{
-  height: 35px;
+  height: 50px;
 }
 
 .header-text{
@@ -41,9 +41,9 @@
   background: #202020;
   height: 600px; }
 
-.services-second-col img {
-  max-width: 100%;
-  height: 600px; }
+.services-second-col {
+  height: 600px;
+}
 
 .portfolio {
   background-size: cover;
@@ -78,7 +78,7 @@
 .case-study {
   background-size: cover;
   background: #f4f5f9;
-  height: 800px;
+  height: 900px;
   border-bottom: 1px solid #999999; }
 
 .case-study-card h5 {
@@ -371,12 +371,18 @@
     background-color: rgb(231, 76, 60);
   }
 
-  .who-we-are-card-img{
-    border: 1px solid #999999;
-    width: 60px;
-    height: 60px;
+  .wrapper{
+    width: 40px;
+  } img{
     padding: 10px;
-    margin-left: 110px;
+    max-width: 100%;
+  }
+
+    .wrapper2{
+    width: 30px;
+  } img{
+    padding: 10px;
+    max-width: 100%;
   }
 
   .services-media-body{

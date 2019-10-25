@@ -1,24 +1,20 @@
 .header {
   background-size: cover;
   background: url("../images/header-background.png");
-  height: 991px;
-}
+  height: 990px; }
 
-.header-background{
+.header-background {
   height: 991px;
-  background-color: rgb(0, 0, 0);
+  background-color: black;
   opacity: 0.70;
   position: absolute;
-  top: 0px;
-}
+  top: 0px; }
 
-.header-logo{
-  height: 35px;
-}
+.header-logo {
+  height: 50px; }
 
-.header-text{
-  padding-top: 20px;
-}
+.header-text {
+  padding-top: 20px; }
 
 .who-we-are {
   background-size: cover;
@@ -41,15 +37,14 @@
   background: #202020;
   height: 600px; }
 
-.services-second-col img {
-  max-width: 100%;
+.services-second-col {
   height: 600px; }
 
 .portfolio {
   background-size: cover;
   background: #FFFFFF;
   height: 900px;
-  border-bottom: 1px solid #999999;}
+  border-bottom: 1px solid #999999; }
 
 .portfolio-img {
   max-width: 100%; }
@@ -78,7 +73,7 @@
 .case-study {
   background-size: cover;
   background: #f4f5f9;
-  height: 800px;
+  height: 900px;
   border-bottom: 1px solid #999999; }
 
 .case-study-card h5 {
@@ -183,8 +178,7 @@
   background-size: cover;
   background: #f4f5f9;
   height: 900px;
-  border-bottom: 1px solid #999999;
-   }
+  border-bottom: 1px solid #999999; }
 
 .promo {
   background-size: cover;
@@ -193,7 +187,7 @@
 
 .footer {
   background-size: cover;
-  background-color: rgb(32, 32, 32);
+  background-color: #202020;
   height: 50px; }
 
 .who-we-are-card h5 {
@@ -246,9 +240,8 @@
 .portfolio-card, .case-study-card, .pricing-card, .team-card, .our-clients-card, .our-blog-card, .contact-card, .promo-card {
   text-align: center; }
 
-.our-clients-logo{
-  max-width: 100%;
-}
+.our-clients-logo {
+  max-width: 100%; }
 
 .promo-card, .header-card {
   background: none;
@@ -324,7 +317,6 @@
   background-color: #e74c3c;
   border-color: #e74c3c; }
 
-
 .header-down-icon {
   position: relative;
   bottom: 30px;
@@ -355,196 +347,177 @@
   color: #999999;
   text-align: center; }
 
-  .pricing-btn{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(255, 255, 255);
-    border-radius: 2px;
-    background-color: rgb(153, 153, 153);
-  }
+.pricing-btn {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: white;
+  border-radius: 2px;
+  background-color: #999999; }
 
-   .pricing-red-btn{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(255, 255, 255);
-    border-radius: 2px;
-    background-color: rgb(231, 76, 60);
-  }
+.pricing-red-btn {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: white;
+  border-radius: 2px;
+  background-color: #e74c3c; }
 
-  .who-we-are-card-img{
-    border: 1px solid #999999;
-    width: 60px;
-    height: 60px;
-    padding: 10px;
-    margin-left: 110px;
-  }
+.wrapper {
+  width: 40px; }
 
-  .services-media-body{
-    color: #FFFF;
-  }
+img {
+  padding: 10px;
+  max-width: 100%; }
 
-  .services-media-body p{
-    font-size: 14px;
-    font-family: "SourceSansPro";
-    color: rgb(153, 153, 153);
-    text-align: right;
-    padding-left: 80px;
-  }
+.wrapper2 {
+  width: 30px; }
 
-  .services-media-body h5{
-    font-size: 36px;
-    font-family: "SourceSansPro";
-    color: rgb(244, 245, 249);
-    font-weight: bold;
-    text-transform: uppercase;
-    text-align: right;
-    padding-bottom: 10px;
-  }
+img {
+  padding: 10px;
+  max-width: 100%; }
 
-    .services-media-body h6{
-    font-size: 18px;
-    font-family: "SourceSansPro";
-    color: rgb(231, 76, 60);
-    font-weight: bold;
-    text-transform: uppercase;
-    text-align: right;
-    padding-bottom: 10px;
-  }
+.services-media-body {
+  color: #FFFF; }
 
-  .services-text-container{
-    padding-top: 130px;
-    padding-right: 50px;
-  }
+.services-media-body p {
+  font-size: 14px;
+  font-family: "SourceSansPro";
+  color: #999999;
+  text-align: right;
+  padding-left: 80px; }
 
-  .services-icons li{
-    list-style: none;
-    position: relative;
-    padding: 15px;
-    bottom: 400px;
-    left: 470px;
-  }
+.services-media-body h5 {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: #f4f5f9;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: right;
+  padding-bottom: 10px; }
 
-  .check-out-stats p{
-    font-size: 15px;
-    font-family: "SourceSansPro";
-    color: rgb(244, 245, 249);
-    font-weight: bold;
-  }
+.services-media-body h6 {
+  font-size: 18px;
+  font-family: "SourceSansPro";
+  color: #e74c3c;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: right;
+  padding-bottom: 10px; }
 
-    .check-out-stats h5{
-    font-size: 25px;
-    font-family: "SourceSansPro";
-    color: rgb(244, 245, 249);
-    font-weight: bold;
-  }
+.services-text-container {
+  padding-top: 130px;
+  padding-right: 50px; }
 
-  .team h5{
-    font-size: 36px;
-    font-family: "SourceSansPro";
-    color: rgb(255, 255, 255);
-    font-weight: bold;
-    text-transform: uppercase;
-  }
+.services-icons li {
+  list-style: none;
+  position: relative;
+  padding: 15px;
+  bottom: 400px;
+  left: 470px; }
 
-    .team p{
-      font-size: 14px;
-      font-family: "OpenSans";
-      color: rgb(244, 245, 249);
-  }
+.check-out-stats p {
+  font-size: 15px;
+  font-family: "SourceSansPro";
+  color: #f4f5f9;
+  font-weight: bold; }
 
-  .our-clients-card{
-    padding-top: 50px;
-  }
+.check-out-stats h5 {
+  font-size: 25px;
+  font-family: "SourceSansPro";
+  color: #f4f5f9;
+  font-weight: bold; }
 
-  .our-clients-card h5{
-    font-size: 36px;
-    font-family: "SourceSansPro";
-    color: rgb(106, 106, 106);
-    font-weight: bold;
-    text-transform: uppercase;
-  }
+.team h5 {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase; }
 
-  .our-clients-card p{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(153, 153, 153);
-  }
+.team p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #f4f5f9; }
 
-  .our-blog-card h5, .contact-card h5{
-    font-size: 36px;
-    font-family: "SourceSansPro";
-    color: rgb(106, 106, 106);
-    font-weight: bold;
-    text-transform: uppercase;
-  }
+.our-clients-card {
+  padding-top: 50px; }
 
-    .our-blog-card, .contact-card p{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(153, 153, 153);
-  }
+.our-clients-card h5 {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: #6a6a6a;
+  font-weight: bold;
+  text-transform: uppercase; }
 
-   .our-blog-card, .contact-card{
-    padding-top: 50px;
-  }
+.our-clients-card p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999; }
 
-  .contact-card-body h5{
-    font-size: 24px;
-    font-family: "Source Sans Pro";
-    color: rgb(231, 78, 62);
-    text-transform: uppercase;
-  }
+.our-blog-card h5, .contact-card h5 {
+  font-size: 36px;
+  font-family: "SourceSansPro";
+  color: #6a6a6a;
+  font-weight: bold;
+  text-transform: uppercase; }
 
-  .contact-card-body p{
-    font-size: 18px;
-    font-family: "OpenSans";
-    color: rgb(153, 153, 153);
-  }
+.our-blog-card, .contact-card p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999; }
 
-  .form-group{
-    border-bottom: 1px solid rgb(153, 153, 153);
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(153, 153, 153);
-  }
+.our-blog-card, .contact-card {
+  padding-top: 50px; }
 
-  .contact-btn{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgb(255, 255, 255);
-    font-weight: bold;
-    text-transform: uppercase;
-    border-radius: 3px;
-    background-color: rgb(231, 78, 62);
-  }
+.contact-card-body h5 {
+  font-size: 24px;
+  font-family: "Source Sans Pro";
+  color: #e74e3e;
+  text-transform: uppercase; }
 
-  .promo-card h5{
-    font-size: 36px;
-    font-family: "OpenSans";
-    color: rgb(255, 255, 255);
-  }
+.contact-card-body p {
+  font-size: 18px;
+  font-family: "OpenSans";
+  color: #999999; }
 
-  .promo-card span{
-    text-transform: uppercase;
-  }
+.form-group {
+  border-bottom: 1px solid #999999;
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: #999999; }
 
-  .promo-card p{
-    font-size: 12px;
-    font-family: "OpenSans";
-    color: rgb(255, 255, 255);
-    font-weight: bold;
-  }
+.contact-btn {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 3px;
+  background-color: #e74e3e; }
 
-  .promo-btn{
-    font-family: "OpenSans";
-    border-radius: 3px;
-    background-color: rgb(231, 76, 60);
-  }
+.promo-card h5 {
+  font-size: 36px;
+  font-family: "OpenSans";
+  color: white; }
 
-  .footer p{
-    font-size: 14px;
-    font-family: "OpenSans";
-    color: rgba(153, 153, 153, 0.749);
-  }
+.promo-card span {
+  text-transform: uppercase; }
+
+.promo-card p {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: white;
+  font-weight: bold; }
+
+.promo-btn {
+  font-family: "OpenSans";
+  border-radius: 3px;
+  background-color: #e74c3c; }
+
+.footer p {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgba(153, 153, 153, 0.749); }
+
+/*# sourceMappingURL=styles.css.map */
 
 /*# sourceMappingURL=styles.css.map */
